@@ -1,5 +1,4 @@
 body{
-    background-color: red;
     margin: 0;
     padding: 0;
 }
@@ -293,16 +292,7 @@ progress::-webkit-progress-value {
         grid-row: 6;
     }
     .Header__center{
-        width: 92vw;
+        width: 93vw;
         height: 30vw;
     }
-    /* .Header__center{
-    display: flex;
-    background-image: url(waistup-shot);
-    background-repeat: no-repeat;
-    height: 60vh;
-    background-size: cover;
-    padding: 1rem;
-    width: 90vw;
-    } */
     }
