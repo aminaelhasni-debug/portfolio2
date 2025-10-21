@@ -292,6 +292,10 @@ progress::-webkit-progress-value {
         grid-column:1;
         grid-row: 6;
     }
+    .Header__center{
+        width: 92vw;
+        height: 30vw;
+    }
     /* .Header__center{
     display: flex;
     background-image: url(waistup-shot);
