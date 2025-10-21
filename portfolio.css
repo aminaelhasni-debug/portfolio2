@@ -3,12 +3,6 @@ body{
     margin: 0;
     padding: 0;
 }
-.main{
-    background-color: darkblue;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
 .header__nav{
     display: flex;
     justify-content: space-around;
@@ -206,7 +200,7 @@ progress::-webkit-progress-value {
         display: none;
     }
     .Header__center{
-        width: 100vw;
+        width: 94vw;
         height: 30vw;
     }
     .first--section{
@@ -298,4 +292,13 @@ progress::-webkit-progress-value {
         grid-column:1;
         grid-row: 6;
     }
+    /* .Header__center{
+    display: flex;
+    background-image: url(waistup-shot);
+    background-repeat: no-repeat;
+    height: 60vh;
+    background-size: cover;
+    padding: 1rem;
+    width: 90vw;
+    } */
     }
