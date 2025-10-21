@@ -1,8 +1,10 @@
 body{
+    background-color: red;
     margin: 0;
     padding: 0;
 }
 .main{
+    background-color: darkblue;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -38,7 +40,7 @@ body{
     height: 60vh;
     background-size: cover;
     padding: 1rem;
-    width: 96vw;
+    width: 100vw;
 }
 .contact__button{
     padding-top: 1rem;
