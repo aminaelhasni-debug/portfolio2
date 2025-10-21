@@ -3,7 +3,9 @@ body{
     padding: 0;
 }
 .main{
-    height: 100vw;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 .header__nav{
     display: flex;
@@ -36,7 +38,7 @@ body{
     height: 60vh;
     background-size: cover;
     padding: 1rem;
-    width: 100vw;
+    width: 96vw;
 }
 .contact__button{
     padding-top: 1rem;
